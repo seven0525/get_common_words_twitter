@@ -1,0 +1,35 @@
+{
+  "name": "demandfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vx/gradient": "0.0.165",
+    "@vx/group": "0.0.170",
+    "@vx/hierarchy": "0.0.170",
+    "@vx/responsive": "0.0.165",
+    "@vx/shape": "0.0.171",
+    "axios": "^0.18.0",
+    "d3-hierarchy": "^1.1.6",
+    "lodash.range": "^3.2.0",
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-icons": "^3.0.5",
+    "react-lineto": "^3.1.2",
+    "react-motion": "^0.5.2",
+    "react-spinners": "^0.4.4",
+    "react-spring": "^5.6.4",
+    "react-svg": "^5.0.16",
+    "recharts": "^1.1.0",
+    "semantic-ui-react": "^0.82.2",
+    "styled-components": "^3.4.2",
+    "styled-jsx": "^3.0.2"
+  }
+}
